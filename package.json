@@ -1,6 +1,6 @@
 {
-  "name": "tree-util",
-  "version": "1.0.4",
+  "name": "@conscia/tree-util",
+  "version": "1.0.5",
   "description": "Utility package for building a tree from array plus functions for wokring with trees",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/KristianAbrahamsen/tree-util.git"
+    "url": "git://github.com/conscia/tree-util.git"
   },
   "keywords": [
     "tree",
@@ -25,9 +25,9 @@
   "author": "Kristian Marheim Abrahamsen <kristian.abrahamsen@gmail.com> (https://github.com/KristianAbrahamsen)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/KristianAbrahamsen/tree-util/issues"
+    "url": "https://github.com/conscia/tree-util/issues"
   },
-  "homepage": "https://github.com/KristianAbrahamsen/tree-util#readme",
+  "homepage": "https://github.com/conscia/tree-util#readme",
   "devDependencies": {
     "chai": "^3.5.0",
     "grunt": "^1.0.1",
